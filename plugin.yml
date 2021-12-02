@@ -1,0 +1,12 @@
+---
+name: WorldManager
+author: IvanCraft623
+description: A simple world manager to your server
+version: 1.0.0
+main: IvanCraft623\WorldManager\WorldManager
+api: 4.0.0
+prefix: "§8[§aWorldManager§8] §r"
+permissions:
+  worldmanager.use:
+    default: op
+    description: "Allows manage worlds"
